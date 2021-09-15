@@ -184,6 +184,9 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Entidades\Autor.cs" />
+    <Compile Include="Entidades\Editorial.cs" />
+    <Compile Include="Entidades\Libro.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -220,7 +223,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Dao\" />
-    <Folder Include="Entidades\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
