@@ -1,7 +1,7 @@
 # Proyecto Biblioteca UCH
 ---
 ## Integrantes
-. Denis
-. Yeyson
-. Espinoza
-. Ponciano
+- Denis
+- Yeyson
+- Espinoza
+- Ponciano
