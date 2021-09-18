@@ -7,5 +7,6 @@ namespace ProyectoBibliotecaWeb.Entidades
 {
     public class Libro
     {
+        private int idLibro { get; set; }
     }
 }
